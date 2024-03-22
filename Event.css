@@ -1,0 +1,39 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header, footer{
+    background-color: dimgray;
+    color: white;
+    text-align: center;
+    padding: 1em;
+  }
+
+  main{
+    color: ghostwhite;
+    text-align: left;
+  }
+  
+  nav ul {
+    list-style: none;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  main {
+    margin: 15px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
